@@ -1,15 +1,15 @@
 git init 
 
-git add*
-git add.
-git add <arquivo>
+git add* : adiciona os arquivos modificados ao commit
+git add. : adiciona todos os arquivos ao commit
+git add <arquivo> : adiciona o arquivo ao commit
 
-git commit -m "texto"
+git commit -m "texto" :adiciona um texto ao commit
 
-git push origin master
+git push origin main : puxa para o github
 
-git clone <link>
+git clone <link> : clona
 
-git remote add origin <link> : asiciona ao repositório remoto
+git remote add origin <link> : adiciona ao repositório remoto
 
-$ git add* -> git commit -m "texto" -> git push origin master
+$ git add* -> git commit -m "texto" -> git push origin main
