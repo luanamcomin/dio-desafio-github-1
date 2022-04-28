@@ -1,0 +1,15 @@
+git init 
+
+git add*
+git add.
+git add <arquivo>
+
+git commit -m "texto"
+
+git push origin master
+
+git clone <link>
+
+git remote add origin <link> : asiciona ao repositório remoto
+
+$ git add* -> git commit -m "texto" -> git push origin master
